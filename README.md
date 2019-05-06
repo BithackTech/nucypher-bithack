@@ -1,4 +1,4 @@
-# nucypher-bithack
+# nucypher
 
 ### [nucypher-whitepaper](https://github.com/BithackTech/nucypher-bithack/tree/master/whitepaper)
 
